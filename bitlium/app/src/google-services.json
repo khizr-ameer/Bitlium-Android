@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692674955931",
+    "project_id": "bitlium-7b449",
+    "storage_bucket": "bitlium-7b449.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692674955931:android:bf3f925f0a3b1bee2a943e",
+        "android_client_info": {
+          "package_name": "com.example.bitlium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjiSUcFwbXBiuwjJ-BRZ6NXtOCC0CiyCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
