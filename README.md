@@ -41,7 +41,7 @@ It provides a simple, beginner-friendly interface to **browse coins, view prices
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/bitlium.git
+   git clone https://github.com/khizr-ameer/Bitlium-Android.git
    cd bitlium
 
 2. **Open in Android Studio**
@@ -70,4 +70,5 @@ It provides a simple, beginner-friendly interface to **browse coins, view prices
 ## 👨‍💻 Author
 Developed by **Khizar Ameer**  
 💌 Reach me at: [khizrr.ameer@gmail.com](mailto:khizrr.ameer@gmail.com)  
+
 
