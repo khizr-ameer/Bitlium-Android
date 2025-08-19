@@ -70,3 +70,4 @@ It provides a simple, beginner-friendly interface to **browse coins, view prices
 ## 👨‍💻 Author
 Developed by **Khizar Ameer**  
 💌 Reach me at: [khizrr.ameer@gmail.com](mailto:khizrr.ameer@gmail.com)  
+
